@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "5afa0327-bb03-4c35-9d40-35b032d0ab4a",
+            "Value": {
+                "id": "7cacf6f1-826c-41bb-b069-f42be52e2b50",
+                "resourcePath": "sprites\\pShooting\\pShooting.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "612b5e06-eeaf-42b0-acba-f5871bfc664e",
             "Value": {
                 "id": "e1b2c560-6028-4d45-b089-fa80a1b83b7a",
@@ -199,6 +207,22 @@
             }
         },
         {
+            "Key": "a6a1dbe3-1895-4152-a308-28a732abcb12",
+            "Value": {
+                "id": "f5ac571b-8c69-4435-aef1-10385cbd8268",
+                "resourcePath": "views\\a6a1dbe3-1895-4152-a308-28a732abcb12.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "682c431a-4db2-4725-bc63-4ed8c4b5b6e4",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
             "Key": "aad59116-8224-48d8-81f2-5ebdf11e958d",
             "Value": {
                 "id": "4cf4a83a-ce2f-4a66-83e5-3a951bffd675",
@@ -212,6 +236,14 @@
                 "id": "d4c84997-f672-4282-b5b6-82fcc7881428",
                 "resourcePath": "views\\afe910df-dbed-4950-9131-c6d670c44698.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b524f30a-d46f-43af-be13-1629a7781b24",
+            "Value": {
+                "id": "3e5ea45f-73c4-4256-889c-f9c9380e8892",
+                "resourcePath": "sprites\\pIdle\\pIdle.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -244,6 +276,14 @@
                 "id": "df9af1e0-4555-40eb-88f6-0dbb9f07b3cf",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d816ce0c-c7a3-4aea-8837-a8a68638819a",
+            "Value": {
+                "id": "3eb8eaf8-a8f6-46e1-a1bc-fc15d0824167",
+                "resourcePath": "sprites\\pRunning\\pRunning.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -292,6 +332,14 @@
                 "id": "6b7d5fb8-dd8c-41ce-aa57-79818e3c96c6",
                 "resourcePath": "objects\\sucidal\\sucidal.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "12d01e95-2baf-4631-bb83-08d119889160",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
             }
         },
         {

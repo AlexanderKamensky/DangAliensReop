@@ -12,9 +12,9 @@ if(!(facing == "right"))
 	/// @DnDVersion : 1
 	/// @DnDHash : 2C4285C3
 	/// @DnDParent : 1A96608B
-	/// @DnDArgument : "spriteind" "human_1"
-	/// @DnDSaveInfo : "spriteind" "2f5227df-9bfd-42ed-a42a-74e1136f813e"
-	sprite_index = human_1;
+	/// @DnDArgument : "spriteind" "pRunning"
+	/// @DnDSaveInfo : "spriteind" "d816ce0c-c7a3-4aea-8837-a8a68638819a"
+	sprite_index = pRunning;
 	image_index = 0;
 
 	/// @DnDAction : YoYo Games.Common.Variable
