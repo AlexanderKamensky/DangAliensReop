@@ -11,7 +11,7 @@
     "bbox_right": 110,
     "bbox_top": 0,
     "bboxmode": 2,
-    "colkind": 1,
+    "colkind": 0,
     "coltolerance": 0,
     "frames": [
         {
@@ -215,7 +215,7 @@
     ],
     "gridX": 0,
     "gridY": 0,
-    "height": 160,
+    "height": 203,
     "layers": [
         {
             "id": "c2f796d6-7a84-43f1-a6fc-445b6a88a558",
@@ -232,12 +232,12 @@
     "origin": 0,
     "playbackSpeed": 12,
     "playbackSpeedType": 0,
-    "sepmasks": false,
+    "sepmasks": true,
     "swatchColours": null,
     "swfPrecision": 2.525,
     "textureGroup": 0,
     "type": 0,
-    "width": 134,
+    "width": 170,
     "xorig": 0,
     "yorig": 0
 }
