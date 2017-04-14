@@ -47,7 +47,7 @@
                     "m_serialiseFrozen": false,
                     "name": "inst_14021FFC",
                     "x": 64,
-                    "y": 576,
+                    "y": 573,
                     "IsDnD": true,
                     "colour": {
                         "Value": 4294967295
