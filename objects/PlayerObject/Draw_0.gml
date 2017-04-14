@@ -1,13 +1,35 @@
-/// @DnDAction : YoYo Games.Drawing.Draw_Sprite
+/// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
-/// @DnDHash : 05E6B1C3
-/// @DnDArgument : "x_relative" "1"
-/// @DnDArgument : "y_relative" "1"
-/// @DnDArgument : "sprite" "pIdle"
-/// @DnDSaveInfo : "sprite" "b524f30a-d46f-43af-be13-1629a7781b24"
+/// @DnDHash : 07D18234
+/// @DnDArgument : "code" "draw_self();$(13_10)"
 
-var l05E6B1C3_0 = x + 0;
-var l05E6B1C3_1 = y + 0;
-draw_sprite(pIdle, 0, l05E6B1C3_0, l05E6B1C3_1);
+{
+	draw_self();
 
+}
+
+/// @DnDAction : YoYo Games.Drawing.Draw_Instance_Health
+/// @DnDVersion : 1
+/// @DnDHash : 7145D035
+/// @DnDArgument : "x1" "30"
+/// @DnDArgument : "x1_relative" "1"
+/// @DnDArgument : "y1" "-10"
+/// @DnDArgument : "y1_relative" "1"
+/// @DnDArgument : "x2" "130"
+/// @DnDArgument : "x2_relative" "1"
+/// @DnDArgument : "y2_relative" "1"
+/// @DnDArgument : "backcol" "$FF0000FF"
+/// @DnDArgument : "barcol" "$FF000000"
+/// @DnDArgument : "mincol" "$FF00FF00"
+/// @DnDArgument : "maxcol" "$FF00FF00"
+
+{
+	var l7145D035_0 = x + 30;
+	var l7145D035_1 = y + -10;
+	var l7145D035_2 = x + 130;
+	var l7145D035_3 = y + 0;
+
+	if(!variable_instance_exists(id, "__dnd_health")) __dnd_health = 0;
+	draw_healthbar(l7145D035_0, l7145D035_1, l7145D035_2, l7145D035_3, __dnd_health, $FF0000FF, $FF00FF00, $FF00FF00, 0, (($FF0000FF>>24) != 0), (($FF000000>>24) != 0));
+}
 

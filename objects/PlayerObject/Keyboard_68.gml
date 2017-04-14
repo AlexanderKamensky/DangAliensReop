@@ -8,15 +8,6 @@ if(!(facing == "right"))
 {
 	
 
-	/// @DnDAction : YoYo Games.Instances.Set_Sprite
-	/// @DnDVersion : 1
-	/// @DnDHash : 2C4285C3
-	/// @DnDParent : 1A96608B
-	/// @DnDArgument : "spriteind" "pRunning"
-	/// @DnDSaveInfo : "spriteind" "d816ce0c-c7a3-4aea-8837-a8a68638819a"
-	sprite_index = pRunning;
-	image_index = 0;
-
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 3AD9D91D
