@@ -1,3 +1,11 @@
+/// @DnDAction : YoYo Games.Instances.Set_Sprite
+/// @DnDVersion : 1
+/// @DnDHash : 3A30092B
+/// @DnDArgument : "spriteind" "sDeath"
+/// @DnDSaveInfo : "spriteind" "9496b4fd-c3bc-4fd9-b2dc-28ebeee6927e"
+sprite_index = sDeath;
+image_index = 0;
+
 /// @DnDAction : YoYo Games.Instance Variables.Set_Health
 /// @DnDVersion : 1
 /// @DnDHash : 09A5697B

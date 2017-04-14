@@ -5,7 +5,17 @@
     "name": "game_controller",
     "eventList": [
         {
-            "id": "bd70cf50-2b58-45c7-8138-3baaffd9a730",
+            "id": "a219547b-0554-4006-adfb-a322f9532d09",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "612b5e06-eeaf-42b0-acba-f5871bfc664e"
+        },
+        {
+            "id": "e0da1ca1-e677-460e-9fb7-eb49eceda019",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,

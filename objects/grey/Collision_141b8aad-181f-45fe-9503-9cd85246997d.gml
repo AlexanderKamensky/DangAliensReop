@@ -1,3 +1,11 @@
+/// @DnDAction : YoYo Games.Instances.Set_Sprite
+/// @DnDVersion : 1
+/// @DnDHash : 0AB32F75
+/// @DnDArgument : "spriteind" "gAttack"
+/// @DnDSaveInfo : "spriteind" "fd0e4710-7e59-4ab6-a74b-c6b89d2e2a36"
+sprite_index = gAttack;
+image_index = 0;
+
 /// @DnDAction : YoYo Games.Instance Variables.Set_Health
 /// @DnDVersion : 1
 /// @DnDHash : 09A5697B

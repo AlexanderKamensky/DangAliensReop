@@ -48,9 +48,9 @@ else
 	/// @DnDArgument : "xpos_relative" "1"
 	/// @DnDArgument : "ypos" "45"
 	/// @DnDArgument : "ypos_relative" "1"
-	/// @DnDArgument : "objectid" "blaster"
-	/// @DnDSaveInfo : "objectid" "1c896395-aba6-42c1-be07-5e2ab327dfb2"
-	instance_create_layer(x + -60, y + 45, "Instances", blaster); 
+	/// @DnDArgument : "objectid" "blaster_left"
+	/// @DnDSaveInfo : "objectid" "7b5608f7-3b4a-4b51-85f8-e75f0e931eb4"
+	instance_create_layer(x + -60, y + 45, "Instances", blaster_left); 
 
 	/// @DnDAction : YoYo Games.Movement.Set_Direction_Fixed
 	/// @DnDVersion : 1.1
