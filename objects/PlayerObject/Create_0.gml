@@ -16,26 +16,12 @@
 facing = "right";
 
 
-/// @DnDAction : YoYo Games.Drawing.Draw_Healthbar
+/// @DnDAction : YoYo Games.Instance Variables.Set_Score
 /// @DnDVersion : 1
-/// @DnDHash : 0FB836FB
-/// @DnDArgument : "x1" "100"
-/// @DnDArgument : "y1" "100"
-/// @DnDArgument : "x2" "50"
-/// @DnDArgument : "y2" "50"
-/// @DnDArgument : "direction" "1"
-/// @DnDArgument : "value" "health"
-/// @DnDArgument : "backcol" "$FF0000FF"
-/// @DnDArgument : "barcol" "$FF000000"
-/// @DnDArgument : "mincol" "$FF00FF00"
-/// @DnDArgument : "maxcol" "$FF0000FF"
+/// @DnDHash : 373ED287
 
 {
-	var l0FB836FB_0 = 100;
-	var l0FB836FB_1 = 100;
-	var l0FB836FB_2 = 50;
-	var l0FB836FB_3 = 50;
-
-	draw_healthbar(l0FB836FB_0, l0FB836FB_1, l0FB836FB_2, l0FB836FB_3, health, $FF0000FF, $FF00FF00, $FF0000FF, 1, (($FF0000FF>>24) != 0), (($FF000000>>24) != 0));
+	
+	__dnd_score = real(0);
 }
 

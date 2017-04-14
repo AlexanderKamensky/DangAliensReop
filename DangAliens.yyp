@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "09123e0a-99fa-49f4-b98e-f9dd47ed1c42",
+            "Value": {
+                "id": "2894d809-8e6b-46bc-80ed-a484e2d6447f",
+                "resourcePath": "fonts\\EndGameFont\\EndGameFont.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "0b7744a9-0910-403a-8d10-f91dd8a94a64",
             "Value": {
                 "id": "028ad628-0b49-4baa-b21e-b03f417f1787",
@@ -82,7 +90,7 @@
             "Key": "27cdf975-d653-4781-83df-0727c8f9bd49",
             "Value": {
                 "id": "c48a6ae1-c871-4e38-8a96-8d0c9bfdc227",
-                "resourcePath": "objects\\game\\game.yy",
+                "resourcePath": "objects\\placeHolder\\placeHolder.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -106,7 +114,7 @@
             "Key": "31310e71-0470-4335-89e2-e4d2fcfe3813",
             "Value": {
                 "id": "8ea4c4b7-55f0-4693-98f7-f660b0272e90",
-                "resourcePath": "rooms\\testRoom\\testRoom.yy",
+                "resourcePath": "rooms\\gameRoom\\gameRoom.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -167,6 +175,14 @@
             }
         },
         {
+            "Key": "6bd09607-af7f-42fc-85d8-9e0aff7af752",
+            "Value": {
+                "id": "3eeb6e03-7b7b-452d-bc7a-4fffd75c9397",
+                "resourcePath": "objects\\GameOverRoom\\GameOverRoom.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6e641b20-9047-4ce3-b971-6b790818aaeb",
             "Value": {
                 "id": "09997067-6c22-4f34-91d8-c2a9ca87946d",
@@ -212,6 +228,14 @@
                 "id": "d8f67034-d028-415e-badd-9fcf94163433",
                 "resourcePath": "sprites\\fireball_sprite\\fireball_sprite.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "845e6317-f9c2-4e63-8a32-d1e64ef1def1",
+            "Value": {
+                "id": "f2be2459-3bfa-458a-a658-a241594338b3",
+                "resourcePath": "rooms\\GameEndRoom\\GameEndRoom.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
