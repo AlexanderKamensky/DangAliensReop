@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "239b0aff-464d-4caa-85be-13e168c703e7",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
             "Key": "aad59116-8224-48d8-81f2-5ebdf11e958d",
             "Value": {
                 "id": "4cf4a83a-ce2f-4a66-83e5-3a951bffd675",
@@ -420,6 +428,14 @@
                 "id": "6b7d5fb8-dd8c-41ce-aa57-79818e3c96c6",
                 "resourcePath": "objects\\sucidal\\sucidal.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "30fac13a-7340-4df2-8374-81dc8c96af4d",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
             }
         },
         {
