@@ -30,17 +30,6 @@ draw_set_alpha(($FF0000FF >> 24) / $ff);
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
-/// @DnDHash : 75081676
-/// @DnDArgument : "caption" """"
-
-{
-	var l75081676_0 = 0;
-	var l75081676_1 = 0;
-	draw_text(l75081676_0, l75081676_1, string("") + "");
-}
-
-/// @DnDAction : YoYo Games.Drawing.Draw_Value
-/// @DnDVersion : 1
 /// @DnDHash : 7D9D524F
 /// @DnDArgument : "x" "350"
 /// @DnDArgument : "y" "600"
@@ -50,5 +39,28 @@ draw_set_alpha(($FF0000FF >> 24) / $ff);
 	var l7D9D524F_0 = 350;
 	var l7D9D524F_1 = 600;
 	draw_text(l7D9D524F_0, l7D9D524F_1, string("Press Enter to play") + "");
+}
+
+/// @DnDAction : YoYo Games.Drawing.Set_Font
+/// @DnDVersion : 1
+/// @DnDHash : 78C44541
+/// @DnDArgument : "font" "ControlFont"
+/// @DnDSaveInfo : "font" "b9b5e5c2-a889-453b-aa7a-eb1beb13925e"
+
+{
+	draw_set_font(ControlFont);
+}
+
+/// @DnDAction : YoYo Games.Drawing.Draw_Value
+/// @DnDVersion : 1
+/// @DnDHash : 75081676
+/// @DnDArgument : "x" "200"
+/// @DnDArgument : "y" "400"
+/// @DnDArgument : "caption" ""Controls:WASD or Arrow Keys to move, Space to shoot""
+
+{
+	var l75081676_0 = 200;
+	var l75081676_1 = 400;
+	draw_text(l75081676_0, l75081676_1, string("Controls:WASD or Arrow Keys to move, Space to shoot") + "");
 }
 

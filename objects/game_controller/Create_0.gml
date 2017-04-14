@@ -14,3 +14,13 @@ Spawner = 100;
 challenge = 1;
 
 
+/// @DnDAction : YoYo Games.Drawing.Set_Font
+/// @DnDVersion : 1
+/// @DnDHash : 11970237
+/// @DnDArgument : "font" "Font1"
+/// @DnDSaveInfo : "font" "53c97367-835f-4bdb-98e0-33998789405a"
+
+{
+	draw_set_font(Font1);
+}
+
