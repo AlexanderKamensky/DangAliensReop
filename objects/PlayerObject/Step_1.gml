@@ -28,8 +28,7 @@ var temp_health = 0;
 /// @DnDVersion : 1
 /// @DnDHash : 7F5E4C77
 /// @DnDArgument : "var" "temp_health"
-/// @DnDArgument : "op" "3"
-if(temp_health <= 0)
+if(temp_health == 0)
 {
 	
 
