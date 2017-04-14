@@ -216,14 +216,6 @@ if (l0634E75C_0)
 
 }
 
-/// @DnDAction : YoYo Games.Movement.Set_Speed
-/// @DnDVersion : 1
-/// @DnDHash : 38CD70B0
-
-{
-	speed = 0;
-}
-
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Pressed
 /// @DnDVersion : 1
 /// @DnDHash : 5D6AA873

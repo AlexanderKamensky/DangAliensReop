@@ -108,10 +108,10 @@ if(Spawner == 0)
 										/// @DnDHash : 1313F691
 										/// @DnDParent : 7913A891
 										/// @DnDArgument : "xpos" "1024"
-										/// @DnDArgument : "ypos" "600"
+										/// @DnDArgument : "ypos" "640"
 										/// @DnDArgument : "objectid" "sucidal"
 										/// @DnDSaveInfo : "objectid" "f13b8b43-899f-40ef-8e10-94b3af476981"
-										instance_create_layer(1024, 600, "Instances", sucidal); 
+										instance_create_layer(1024, 640, "Instances", sucidal); 
 						
 						
 						}
