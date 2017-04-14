@@ -127,6 +127,22 @@
             }
         },
         {
+            "Key": "53c97367-835f-4bdb-98e0-33998789405a",
+            "Value": {
+                "id": "0329ba9c-e987-451b-a0dd-54ffa5ca7f01",
+                "resourcePath": "fonts\\Font1\\Font1.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "55b0db86-be16-4c53-8c37-73b583350fa3",
+            "Value": {
+                "id": "9c5afa63-09fc-4c04-800d-2b21253dfba6",
+                "resourcePath": "objects\\menue_object\\menue_object.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5a973ba6-86ef-4414-919c-e943e266b9c1",
             "Value": {
                 "id": "3c50e4e4-dccf-42e7-80c1-5a2cb93c8886",
@@ -300,6 +316,14 @@
                 "id": "949078cb-ca56-402b-bf50-add57ceac126",
                 "resourcePath": "views\\bf543f2f-746d-4e06-80fe-f427e6e8bccc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c4676873-1411-490c-ac01-4521a9d2c457",
+            "Value": {
+                "id": "0c9c2095-2264-4499-97ee-b43b2fbab36e",
+                "resourcePath": "rooms\\menueRoom\\menueRoom.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
